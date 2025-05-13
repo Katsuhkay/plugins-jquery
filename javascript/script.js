@@ -17,6 +17,13 @@ $(document).mouseup(function(e) {
     }
 });
 
+$('.sobre').click(function(){
+    $('html').animate({
+        scrollTop: $('#sobre').offset().top
+    }, 1000);
+});
+
+
 $(document).ready(function(){
             $('#carousel-images').slick({
                 autoplay: true,
