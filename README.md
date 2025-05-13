@@ -1,8 +1,11 @@
 # All Classes Motors - Projeto de Concessionária Virtual 🚗
 
-![Preview do Site]([https://via.placeholder.com/800x400?text=All+Classes+Motors+Preview](https://vercel.com/katsuhkays-projects/all-classs-motors-jquery))
+[![Acesse o Site](https://img.shields.io/badge/Vercel-Live%20Demo-brightgreen)](https://all-classs-motors-jquery.vercel.app)
 
 Projeto desenvolvido como parte do curso de Front-End da EBAC, simulando uma concessionária virtual completa com seções de veículos em destaque, promoções e formulário de contato.
+
+## ✨ Demonstração ao Vivo
+**Acesse o site:** [https://all-classs-motors-jquery.vercel.app](https://all-classs-motors-jquery.vercel.app)
 
 ## ✨ Funcionalidades Principais
 
@@ -31,7 +34,7 @@ Projeto desenvolvido como parte do curso de Front-End da EBAC, simulando uma con
 4. Criar **formulários validados** profissionalmente
 5. Implementar **galerias e sliders** modernos
 
-## 🚀 Como Executar
+## 🚀 Como Executar Localmente
 
 ```bash
 # Clone o repositório
@@ -39,7 +42,6 @@ git clone https://github.com/seu-usuario/all-classes-motors.git
 
 # Abra o arquivo index.html no navegador
 ```
-
 
 ## 🤝 Contribuição
 
