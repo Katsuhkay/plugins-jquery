@@ -2,8 +2,6 @@
 
 # All Classes Motors - Projeto de Concessionária Virtual 🚗
 
-![Preview do Site](https://via.placeholder.com/800x400?text=All+Classes+Motors+Preview)
-
 Projeto desenvolvido como parte do curso de Front-End da EBAC, simulando uma concessionária virtual completa com seções de veículos em destaque, promoções e formulário de contato.
 
 ## ✨ Funcionalidades Principais
